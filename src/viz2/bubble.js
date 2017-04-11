@@ -29,5 +29,5 @@ var layout = {
   margin: {t: 20},
   hovermode: 'closest'
 };
-Plotly.plot('my-graph', data, layout, {showLink: false});
+Plotly.plot('my-graph', data, layout, {showLink: false,displayModeBar: false});
 });
