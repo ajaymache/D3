@@ -6,4 +6,4 @@ Plotly is a open source project and has libraries build in Python, R and MATLAB 
 
 ### Dataset Overview
 
-Various datasets have been used to plot different visulizations as they demand specific type of data for visualization.
+Various datasets have been used to plot different visulizations as they demand specific type of data for visualization. For demostration purposes some datasets are in _csv_ format while others are in _json_ format to show flexibility of the data types that can be used to plot the graphs.
