@@ -1,4 +1,4 @@
-Plotly.d3.csv('https://raw.githubusercontent.com/plotly/datasets/master/wind_speed_laurel_nebraska.csv', function(rows){
+Plotly.d3.csv('../../data/wind_speed_laurel_nebraska.csv', function(rows){
     var trace = {
       type: 'scatter',                    // set the chart type
       mode: 'lines',                      // connect points with lines
