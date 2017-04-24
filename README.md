@@ -5,7 +5,7 @@ This project leverages the power of *[Plotly.js](https://plot.ly)* library that 
 Plotly is a open source project and has libraries build in Python, R and MATLAB as well for visualization. Please explore more about these libraries on **[Plotly](https://plot.ly)**.
 
 ### Running the Project
-Since some of the javascripts will be standlone and access files from the local directories, your browser might not render the the plots/viz. This is for security reasons and if interested in knowing more about this issue please see *[here]()*
+:warning: Since some of the javascripts will be standlone and access files from the local directories, your browser might not render the the plots/viz. This is for security reasons and if interested in knowing more about this issue please see *[here]()*
 
 ### Project Structure
 
