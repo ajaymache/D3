@@ -1,4 +1,4 @@
-# D3 Visualizations
+# D3 Visualizations &nbsp;:bar_chart:
 ### Introduction
 This project leverages the power of *[Plotly.js](https://plot.ly)* library that is build on top of D3 for performing good, meaningful and advanced data visualization on the web.
 
